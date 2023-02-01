@@ -1,4 +1,4 @@
-### C4A - Code for All GIT
+### C4A - Code for All
 
 <!--
 

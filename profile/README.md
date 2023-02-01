@@ -1,6 +1,4 @@
-## Welcome 👋
-
-### C4A - Code for All
+### C4A - Code for All GIT
 
 <!--
 

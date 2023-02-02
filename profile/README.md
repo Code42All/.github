@@ -1,5 +1,3 @@
-#0d1117
-
 # C4A - Code for All
 
 > Lien : https://drive.google.com/drive/folders/11zKSbXJxWGYD1Vw_wpTfyYwPk8rpze1Z?usp=sharing

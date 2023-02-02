@@ -1,4 +1,8 @@
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 ### C4A - Code for All
+
+> Lien : https://drive.google.com/drive/folders/11zKSbXJxWGYD1Vw_wpTfyYwPk8rpze1Z?usp=sharing
 
 <!--
 

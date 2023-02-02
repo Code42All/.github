@@ -1,11 +1,74 @@
 # C4A - Code for All
 
+---
+### Définitions :
+
+* **Education** : entrevoir un nouveau modèle pédagogique, éduquer sur ce qu’est réellement la
+programmation (≠ informatique), montrer que n’importe qui peut coder au-delà des préjugés
+et des situations personnelles  
+
+* **Mixité** : faire en sorte que n’importe qui puisse s’identifier et entrevoir la possibilité de faire de
+la programmation, peu importe son origine, son genre, son âge, sa situation géographique, sa
+situation personnelle/professionnelle …
+
+→ *L’un ne va pas sans l’autre !*
+
+---
+
+### Objectifs du club :
+
+* Initier tous types de publics à la programmation : élémentaire, collège, lycée, réinsertion,
+réorientation...
+
+* Promouvoir le modèle pédagogique de 42
+
+* Casser les stéréotypes autour de la programmation
+
+* Ouvrir l’école à tout public
+
+→ *Tout cela en coopération avec le staff*
+
+---
+
 ###### Les documents (Ordre du Jour / Debrief / Secrétariat / Trésorerie / ) c'est [par ici](https://github.com/Code42All/Documents)
 ###### Les projects c'est [par ici](https://github.com/Code42All/Project)
 <br/>
 <br/>
 
 > [Liens Google Doc](https://docs.google.com/document/d/1hG3OV1mXAPskngnR6pbq7tRbXWe2oVu6QDCeJLCtpaw/edit?usp=share_link)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 

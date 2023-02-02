@@ -1,6 +1,6 @@
 # C4A - Code for All
 
-###### Les documents (Ordre du Jour / Debrief / Secrétaria / Trésorie / ) c'est [par ici](https://github.com/Code42All/Documents)
+###### Les documents (Ordre du Jour / Debrief / Secrétariat / Trésorerie / ) c'est [par ici](https://github.com/Code42All/Documents)
 ###### Les projects c'est [par ici](https://github.com/Code42All/Project)
 <br/>
 <br/>

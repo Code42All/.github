@@ -30,8 +30,14 @@ réorientation...
 
 ---
 
-###### Les documents ([Ordre du Jour](https://github.com/Code42All/Documents/blob/master/Ordre%20du%20Jour%2001_03_23.pdf) / [Debrief](https://github.com/Code42All/Documents/tree/master/Debriefs) / [Secrétariat](https://github.com/Code42All/Documents/tree/master/Secr%C3%A9tariat) / [Trésorerie](https://github.com/Code42All/Documents/tree/master/Tr%C3%A9sorerie) ) c'est [par ici](https://github.com/Code42All/Documents)
-###### Les projects c'est [par ici](https://github.com/Code42All/Project)
+#### Les documents : c'est [par ici](https://github.com/Code42All/Documents)
+
+##### →    [Ordre du Jour](https://github.com/Code42All/Documents/blob/master/Ordre%20du%20Jour%2001_03_23.pdf)
+##### →    [Debrief](https://github.com/Code42All/Documents/tree/master/Debriefs)
+##### →    [Secrétariat](https://github.com/Code42All/Documents/tree/master/Secr%C3%A9tariat)
+##### →    [Trésorerie](https://github.com/Code42All/Documents/tree/master/Tr%C3%A9sorerie)
+
+#### Les projets c'est [par ici](https://github.com/Code42All/Project)
 <br/>
 <br/>
 

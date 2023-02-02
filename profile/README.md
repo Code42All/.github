@@ -1,6 +1,8 @@
 # C4A - Code for All
 
-Les document (Ordre du Jour / Debrief / Secrétaria / Trésorie / ) [C'est par là](Documents/README.md)
+Les documents (Ordre du Jour / Debrief / Secrétaria / Trésorie / ) [C'est par là](https://github.com/Code42All/Documents)
+
+Les projects [C'est par là](https://github.com/Code42All/Project)
 
 > [Google Doc](https://docs.google.com/document/d/1hG3OV1mXAPskngnR6pbq7tRbXWe2oVu6QDCeJLCtpaw/edit?usp=share_link)
 

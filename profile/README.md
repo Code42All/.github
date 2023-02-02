@@ -1,6 +1,6 @@
 # C4A - Code for All
 
-Les document (Ordre du Jour / Debrief / Secrétaria / Trésorie / ) [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+Les document (Ordre du Jour / Debrief / Secrétaria / Trésorie / ) [C'est par là](Documents/README.md)
 
 > [Google Doc](https://docs.google.com/document/d/1hG3OV1mXAPskngnR6pbq7tRbXWe2oVu6QDCeJLCtpaw/edit?usp=share_link)
 

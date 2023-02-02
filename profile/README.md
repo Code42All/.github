@@ -46,7 +46,7 @@ réorientation...
 <br/>
 <br/>
 
-> [Liens Google Doc](https://docs.google.com/document/d/1hG3OV1mXAPskngnR6pbq7tRbXWe2oVu6QDCeJLCtpaw/edit?usp=share_link)
+> [Liens Google Doc](https://drive.google.com/drive/folders/11zKSbXJxWGYD1Vw_wpTfyYwPk8rpze1Z?usp=share_link)
 
 
 

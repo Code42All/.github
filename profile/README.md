@@ -1,7 +1,7 @@
 # C4A - Code for All
 
 ---
-### Définitions :
+### Fondements :
 
 * **Education** : entrevoir un nouveau modèle pédagogique, éduquer sur ce qu’est réellement la
 programmation (≠ informatique), montrer que n’importe qui peut coder au-delà des préjugés

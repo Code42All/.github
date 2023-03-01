@@ -46,6 +46,7 @@ réorientation...
 ##### → [C4A - Robots](https://github.com/Code42All/Project/tree/master/C4A-Robots)
 ##### → [C4A - Visit](https://github.com/Code42All/Project/tree/master/C4A-Visit)
 ##### → [C4A-Sondage_Enquetes](https://github.com/Code42All/Projects/tree/master/C4A-Sondage_Enquetes)
+##### → [C4A-Libr'Educ](https://github.com/Code42All/Projects/tree/master/C4A-Libr'Educ)
 <br/>
 <br/>
 

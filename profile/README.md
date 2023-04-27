@@ -20,11 +20,13 @@ situation personnelle/professionnelle …
 * Initier tous types de publics à la programmation : élémentaire, collège, lycée, réinsertion,
 réorientation...
 
-* Promouvoir le modèle pédagogique de 42
+* Faire découvrir les pédagogies alternatives
 
 * Casser les stéréotypes autour de la programmation
 
 * Ouvrir l’école à tout public
+
+* Favoriser l’entraide et aider à l'accompagnement des étudiants.
 
 → *Tout cela en coopération avec le staff*
 

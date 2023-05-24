@@ -39,7 +39,7 @@ réorientation...
 ##### →    [Archives_Reunion](https://github.com/Code42All/Documents/tree/master/Archives_R%C3%A9union)
 ##### →    [Secrétariat](https://github.com/Code42All/Documents/tree/master/Secr%C3%A9tariat)
 ##### →    [Trésorerie](https://github.com/Code42All/Documents/tree/master/Tr%C3%A9sorerie)
-##### →    [Logos](https://github.com/Code42All/Documents/tree/c53e91d8765650e35c4ccfc1239a3b4e9bacbe4d/logos)
+##### →    [Logos]([https://github.com/Code42All/Documents/tree/c53e91d8765650e35c4ccfc1239a3b4e9bacbe4d/logos](https://github.com/Code42All/Documents/tree/master/Logos))
 
 #### Les projets c'est [par ici](https://github.com/Code42All/Project)
 

@@ -34,7 +34,7 @@ réorientation...
 
 #### Les documents : c'est [par ici](https://github.com/Code42All/Documents)
 
-##### →    [Ordre du Jour](https://github.com/Code42All/Documents/blob/master/Ordre%20du%20Jour%2019_04_23.pdf)
+##### →    [Ordre du Jour](https://github.com/Code42All/Documents/blob/master/Ordre%20du%20Jour%2028_06_23.pdf)
 ##### →    [Debrief](https://github.com/Code42All/Documents/tree/master/Debriefs)
 ##### →    [Archives_Reunion](https://github.com/Code42All/Documents/tree/master/Archives_R%C3%A9union)
 ##### →    [Secrétariat](https://github.com/Code42All/Documents/tree/master/Secr%C3%A9tariat)
